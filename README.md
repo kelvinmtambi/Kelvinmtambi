@@ -8,7 +8,7 @@ I'm computer programmer who loves learning new skills everytime
 
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [mtambikelvin@gmail.com](mailto:mtambikelvin@gmail.com)
-* 🧠  I'm learning Fronted and backend skills
+* 🧠  I'm learning Frontend and backend skills
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I'm a first learner
 
