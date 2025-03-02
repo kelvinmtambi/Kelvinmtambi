@@ -1,7 +1,6 @@
 Hi 👋 My name is Kelvin Mtambi
 ==============================
-
-Computer Programmer
+ Programmer
 -------------------
 
 I'm computer programmer who loves learning new skills everytime
