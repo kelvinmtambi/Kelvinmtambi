@@ -3,11 +3,11 @@ Hi 👋 My name is Kelvin Mtambi
  Programmer
 -------------------
 
-I'm computer programmer who loves learning new skills everytime
+I'm a computer programmer who loves learning new skills everytime
 
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [mtambikelvin@gmail.com](mailto:mtambikelvin@gmail.com)
-* 🧠  I'm learning Frontend and backend skills
+* 🧠  I've a knowledge on Frontend and Backend programs.
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I'm a first learner
 
